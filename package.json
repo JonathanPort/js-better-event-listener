@@ -1,6 +1,6 @@
 {
   "name": "better-event-listener",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight ES6 component that can be used in place of the standard .addEventListener() function. Provides browser compatibility as well the ability to add events to an array of elements!",
   "main": "dist/BetterEventListener.js",
   "scripts": {
