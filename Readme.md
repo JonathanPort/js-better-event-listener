@@ -6,12 +6,15 @@ This ES6 module essentially adds a method, that you can name yourself, to the `O
 
 ### Usage
 - - - -
-1. Import the Module
+1. Installation
+`npm install better-event-listener --save` or download the `dist/BetterEventListener.js` for manual use.
+
+2. Import the Module
 ```JavaScript
 import BetterEventListener from 'BetterEventListener';
 ```
 
-2. Instantiate the class (This only ever needs to be run once)
+3. Instantiate the class (This only ever needs to be run once)
 ```JavaScript
 new BetterEventListener();
 
@@ -19,7 +22,7 @@ new BetterEventListener();
 new BetterEventListener({methodName: 'myBindEvent'});
 ```
 
-3. Go nuts!
+4. Go nuts!
 ```JavaScript
 // Single Element, single event..
 button.bEvent('click', function(e) { ... });
