@@ -7,7 +7,10 @@ This ES6 module essentially adds a method, that you can name yourself, to the `O
 ### Usage
 - - - -
 1. Installation
-`npm install better-event-listener --save` or download the `dist/BetterEventListener.js` for manual use.
+```shell
+npm install better-event-listener --save
+```
+or download the `dist/BetterEventListener.js` for manual use.
 
 2. Import the Module
 ```JavaScript
