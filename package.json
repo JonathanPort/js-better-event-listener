@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonathanport/BetterEventListener.git"
+    "url": "git+https://github.com/jonathanport/js-better-event-listener.git"
   },
   "keywords": [
     "Event",
@@ -22,9 +22,9 @@
   "author": "Jonathan Port @jfreemanport",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jonathanport/BetterEventListener/issues"
+    "url": "https://github.com/jonathanport/js-better-event-listener/issues"
   },
-  "homepage": "https://github.com/jonathanport/BetterEventListener#readme",
+  "homepage": "https://github.com/jonathanport/js-better-event-listener#readme",
   "devDependencies": {
     "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.6.1",

@@ -6,7 +6,7 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     filename: 'BetterEventListener.js',
     libraryExport: 'default',
-    libraryTarget: 'var',
+    libraryTarget: 'umd',
     library: 'BetterEventListener'
   },
   module: {
