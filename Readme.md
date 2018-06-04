@@ -14,7 +14,9 @@ or download the `dist/BetterEventListener.js` for manual use.
 
 2. Import the Module
 ```JavaScript
-import BetterEventListener from 'BetterEventListener';
+import BetterEventListener from 'better-event-listener';
+// or
+const BetterEventListener = require('better-event-listener');
 ```
 
 3. Instantiate the class (This only ever needs to be run once)
