@@ -1,0 +1,34 @@
+{
+  "name": "better-event-listener",
+  "version": "1.0.0",
+  "description": "A lightweight ES6 component that can be used in place of the standard .addEventListener() function. Provides browser compatibility as well the ability to add events to an array of elements!",
+  "main": "dist/BetterEventListener.js",
+  "scripts": {
+    "develop": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanport/BetterEventListener.git"
+  },
+  "keywords": [
+    "Event",
+    "Listener",
+    "ES6",
+    "Cross",
+    "Browser",
+    "Compatible"
+  ],
+  "author": "Jonathan Port @jfreemanport",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanport/BetterEventListener/issues"
+  },
+  "homepage": "https://github.com/jonathanport/BetterEventListener#readme",
+  "devDependencies": {
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^4.10.2",
+    "webpack-cli": "^3.0.1"
+  }
+}
